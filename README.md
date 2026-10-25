@@ -1,5 +1,5 @@
 # 🇪🇺 La Gazzetta dell'Erasmus
-![Banner](banner.jpg)
+![Banner](banner.png)
 > *The European students' newspaper. Your next chapter begins here.*
 
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge&logo=none)](https://github.com/Seneoo)
