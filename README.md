@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge&logo=none)](https://github.com/Seneoo)
 [![Platform](https://img.shields.io/badge/PLATFORM-WEB_APP-blue?style=for-the-badge&logo=european-union&logoColor=white)](https://github.com/Seneoo)
 [![Languages](https://img.shields.io/badge/LANGUAGES-MULTILINGUAL-orange?style=for-the-badge)](https://github.com/Seneoo)
-[![License](https://img.shields.io/badge/LICENSE-MIT-purple?style=for-the-badge)](https://github.com/Seneoo)
+[![License](https://img.shields.io/badge/LICENSE-PROPRIETARY-red?style=for-the-badge)](https://github.com/Seneoo)
 
 ---
 
@@ -46,4 +46,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seneoo)
 [![Linktree](https://img.shields.io/badge/Linktree-38BDF8?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/giuscald)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gius.cald)
-[![Email](https://img.shields.io/badge/Email-FF3D5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seneo.community@outlook.com)
+[![Revolut](https://img.shields.io/badge/Revolut-Donations-%230075EB?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/caldarola08)
